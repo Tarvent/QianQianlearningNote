@@ -6,16 +6,6 @@
 
 ---
 
-个人博客 https://tarvent.github.io/chenduo-blog.github.io/
-
----
-
-A learning note about Java, JavaScript, AWS, Linux and Code.
-
-本文档 : https://tarvent.github.io/Chenduo_LearnNote/#/
-
----
-
 
 
 # 以下本在线文档搭建
